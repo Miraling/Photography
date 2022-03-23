@@ -14,8 +14,8 @@ banner-desc: # add banner description
 # Author settings
 author-pic: face.jpg # your photo
 author-name: 林柏澜 # your name
-about-author: 随手拍拍，开心就好 | 未授权禁止盗用 | 有事请邮件联系 # about author
-email: mirandmira@163.com # your email
+about-author: 随手拍拍，开心就好 | 未授权禁止盗用 | 有事请先Contact页面联系 # about author
+#email:  # your email
 
 website: https://miraling.github.io/ # you website
 
