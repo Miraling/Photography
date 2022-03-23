@@ -13,10 +13,9 @@ banner-desc: # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: 林柏澜# your name
-about-author: 无技术力，记录我看到的好看的景色，生活在成都
-Record the beautiful scenery I see, live in Chengdu, you can call me Miraling # about author
-email: lanbailing.ok@163.com # your email
+author-name: 林柏澜 # your name
+about-author: 无技术力，记录我看到的好看的景色，生活在成都。 # about author
+email: mirandmira@163.com # your email
 #phone: (496)-169-6557 # your pnone number
 website: https://miraling.github.io/ # you website
 
