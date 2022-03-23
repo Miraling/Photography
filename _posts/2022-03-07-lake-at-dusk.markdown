@@ -8,4 +8,4 @@ tag: [Chengdu, Landscape]
 ---
 > 摄于2022年3月7日，电子科技大学清水河校区
 
-![](/assets/img/P1000690.JPG)
+![](https://github.com/Miraling/Photography/blob/dcff7e95731538c7b9d71c6d9315d5198ac12b5c/assets/img/P1000690.JPG)
